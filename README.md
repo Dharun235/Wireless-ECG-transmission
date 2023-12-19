@@ -1,1 +1,1 @@
-# Machine Learning-Enhanced Sensor Based Smart Hand-Wearable employing Finger-Spelling for Speech Impaired People
+# Check out the video in this link - https://www.linkedin.com/in/dharun-kumar20/details/projects/
